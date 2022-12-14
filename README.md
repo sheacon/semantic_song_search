@@ -9,6 +9,8 @@
 ## Data
 
 - [Song Lyrics](https://www.kaggle.com/datasets/nikhilnayak123/5-million-song-lyrics-dataset)
+- [ ] Scrape Genius.com annotations
+- [ ] Scrape YouTube music video comments
 
 ## Research Todos
 - [ ] Historical Techniques
