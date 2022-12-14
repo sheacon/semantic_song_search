@@ -1,0 +1,18 @@
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# data
+data/ds2.csv
+data/ds2.csv.zip
+data/clean_dataset.csv
+data/clean_dataset.csv.zip
+data/small_dataset.csv
+data/alternate_dataset.csv
+
+# macos
+.DS_Store
