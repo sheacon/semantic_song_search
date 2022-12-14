@@ -10,7 +10,7 @@
 - [Song Lyrics](https://www.kaggle.com/datasets/nikhilnayak123/5-million-song-lyrics-dataset)
 
 ## Research Todos
-- [] Historical Techniques
+- [ ] Historical Techniques
   - [Hands-On Natural Language Processing with PyTorch 1.x](https://learning.oreilly.com/library/view/hands-on-natural-language/9781789802740/)
 
 ## Research Links:   
