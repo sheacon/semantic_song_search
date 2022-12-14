@@ -2,36 +2,12 @@
 
 # Semantic Search
 
-- Machine Learning II [Vanderbilt DS5660](https://hrlblab.github.io/DS5660.html)
-- ML2 Team 13
-
-## Course Resources
-
-- [Course Page](https://hrlblab.github.io/DS5660.html)
-
-## Team
-
-- Henry Savich - HSavich / hhsavich@gmail.com / henry.h.savich@vanderbilt.edu
-- Mahmoud Hamza - santarabantoosoo / mah.mo.hamza@gmail.com / mahmoud.m.hamza@vanderbilt.edu
-- Shea Conaway - sheacon / shea.conaway@gmail.com / shea.conaway@vanderbilt.edu
+- This is an individual fork of a team project [here](https://github.com/santarabantoosoo/semantic_song_search)
+- Credit to @HSavich and @santarabantoosoo for dev work on initial project
 
 ## Data
 
 - [Song Lyrics](https://www.kaggle.com/datasets/nikhilnayak123/5-million-song-lyrics-dataset)
-
-## Project Notebook Layout
-
-- `0_preprocessing.ipynb`: data preprocessing
-- `1_fine_tune_mnr.ipynb`: fine-tune base model
-- `2_performance_assessment.ipynb`: assess performance for base and fine-tuned models
-- `3_final_train.ipynb`: train selected fine-tuning method on entire dataset
-- `4_lyrics_embed.ipynb`: create lyric embeddings
-- `5_semantic_search.ipynb`: perform semantic search
-- `6_gradio_app.ipynb`: gradio app for crowd sourcing
-
-**Parallel track** 
-
-- `BOW_fine_tuning.ipynb`: fine tuning the dataset that most probably had scores based on Bag Of Words  
 
 ## Research Links:   
 
