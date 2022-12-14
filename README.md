@@ -11,6 +11,7 @@
 
 ## Research Todos
 - [ ] Historical Techniques
+  - Bag-of-Words
   - [Hands-On Natural Language Processing with PyTorch 1.x](https://learning.oreilly.com/library/view/hands-on-natural-language/9781789802740/)
 
 ## Research Links:   
