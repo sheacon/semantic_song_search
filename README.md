@@ -5,6 +5,11 @@
 - This is an individual fork of a team project. Credit to @HSavich and @santarabantoosoo for dev work on initial project.
 - Read results in our [research paper](research_paper_v1.pdf)
 
+![semantic_space](readme_images/semantic_space.png)
+![score_results](readme_images/score_results.png)
+![query](readme_images/query.png)
+
+
 ## Research Links:   
 
 - [How to Build a Semantic Search | Towards Data Science](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
