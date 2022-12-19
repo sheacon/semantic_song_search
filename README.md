@@ -3,9 +3,6 @@
 - This is an individual fork of a team project [here](https://github.com/santarabantoosoo/semantic_song_search)
 - Credit to @HSavich and @santarabantoosoo for dev work on initial project
 
-## Quick Links
-- [Project Board](https://github.com/users/sheacon/projects/2)
-
 ## Data
 
 - [Song Lyrics](https://www.kaggle.com/datasets/nikhilnayak123/5-million-song-lyrics-dataset)
