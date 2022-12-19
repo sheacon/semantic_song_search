@@ -2,6 +2,7 @@
 
 - This is an individual fork of a team project [here](https://github.com/santarabantoosoo/semantic_song_search)
 - Credit to @HSavich and @santarabantoosoo for dev work on initial project
+- Read results in our [research paper](research_paper_v1.pdf)
 
 ## Data
 
