@@ -3,17 +3,6 @@
 - This is an individual fork of a team project. Credit to @HSavich and @santarabantoosoo for dev work on initial project.
 - Read results in our [research paper](research_paper_v1.pdf)
 
-## Data
-
-- [Song Lyrics](https://www.kaggle.com/datasets/nikhilnayak123/5-million-song-lyrics-dataset)
-- [ ] Scrape Genius.com annotations
-- [ ] Scrape YouTube music video comments
-
-## Research Todos
-- [ ] Historical Techniques
-  - Bag-of-Words
-  - [Hands-On Natural Language Processing with PyTorch 1.x](https://learning.oreilly.com/library/view/hands-on-natural-language/9781789802740/)
-
 ## Research Links:   
 
 - [How to Build a Semantic Search | Towards Data Science](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
