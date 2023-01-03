@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sheacon/semantic_song_search)
+
 # Semantic Song Search
 - We allow the user to search for songs based on the inherent meaning in the song's lyrics. This approach goes beyond basic keyword matching to extract semantics independent of specific wording, connecting songs by topics described by the user in arbitrary detail.
 - We apply a pre-trained sentence transformer model on an extensive lyrics dataset to create embeddings for each song. These vector representations of natural language are compared in order to find songs similar in meaning to a user-supplied query.
